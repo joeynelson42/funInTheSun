@@ -12,6 +12,7 @@
 		635EE9CF1DDB9AB200EEA54A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 635EE9CD1DDB9AB200EEA54A /* LaunchScreen.storyboard */; };
 		635EE9D81DDB9ADD00EEA54A /* SunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 635EE9D61DDB9ADD00EEA54A /* SunViewController.swift */; };
 		635EE9D91DDB9ADD00EEA54A /* SunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 635EE9D71DDB9ADD00EEA54A /* SunView.swift */; };
+		635EE9DB1DDB9E3700EEA54A /* FunInTheSun.gif in Resources */ = {isa = PBXBuildFile; fileRef = 635EE9DA1DDB9E3700EEA54A /* FunInTheSun.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		635EE9D01DDB9AB200EEA54A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		635EE9D61DDB9ADD00EEA54A /* SunViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SunViewController.swift; sourceTree = "<group>"; };
 		635EE9D71DDB9ADD00EEA54A /* SunView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SunView.swift; sourceTree = "<group>"; };
+		635EE9DA1DDB9E3700EEA54A /* FunInTheSun.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = FunInTheSun.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				635EE9C41DDB9AB200EEA54A /* AppDelegate.swift */,
 				635EE9D61DDB9ADD00EEA54A /* SunViewController.swift */,
 				635EE9D71DDB9ADD00EEA54A /* SunView.swift */,
+				635EE9DA1DDB9E3700EEA54A /* FunInTheSun.gif */,
 				635EE9CB1DDB9AB200EEA54A /* Assets.xcassets */,
 				635EE9CD1DDB9AB200EEA54A /* LaunchScreen.storyboard */,
 				635EE9D01DDB9AB200EEA54A /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				635EE9DB1DDB9E3700EEA54A /* FunInTheSun.gif in Resources */,
 				635EE9CF1DDB9AB200EEA54A /* LaunchScreen.storyboard in Resources */,
 				635EE9CC1DDB9AB200EEA54A /* Assets.xcassets in Resources */,
 			);
