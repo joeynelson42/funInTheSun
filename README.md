@@ -5,4 +5,4 @@ I made a fun little interactive animation in Swift and haven't found a concrete 
 Here's a gif for those who don't want to experience the power of the UIPanGestureRecognizer
 
 
-[Read more words!](FunSun/FunInTheSun.gif)
+![Read more words!](FunSun/FunInTheSun.gif)
